@@ -1,0 +1,57 @@
+<sync rows="5000">
+	<tracks>
+		<track name="lintujen_luonti">
+			<key value="0" interpolation="1" row="32"/>
+			<key value="46" interpolation="0" row="768"/>
+		</track>
+		<track name="lintujen_liike">
+			<key value="1" interpolation="0" row="768"/>
+			<key value="-1" interpolation="0" row="800"/>
+			<key value="1" interpolation="0" row="824"/>
+			<key value="-1" interpolation="0" row="832"/>
+			<key value="1" interpolation="0" row="896"/>
+			<key value="1" interpolation="0" row="928"/>
+		</track>
+		<track name="yleiset">
+			<key value="0" interpolation="0" row="0"/>
+			<key value="1" interpolation="0" row="32"/>
+			<key value="3" interpolation="0" row="512"/>
+			<key value="2" interpolation="0" row="768"/>
+			<key value="4" interpolation="0" row="1024"/>
+			<key value="6" interpolation="0" row="1280"/>
+			<key value="5" interpolation="0" row="1776"/>
+		</track>
+		<track name="kameraZ">
+			<key value="3000" interpolation="1" row="16"/>
+			<key value="1000" interpolation="1" row="208"/>
+			<key value="1500" interpolation="0" row="512"/>
+		</track>
+		<track name="lintujen_siivet"/>
+		<track name="pikkulinnut">
+			<key value="5" interpolation="1" row="16"/>
+			<key value="5" interpolation="1" row="1024"/>
+			<key value="100" interpolation="1" row="1280"/>
+			<key value="0" interpolation="0" row="1776"/>
+		</track>
+		<track name="kameraY"/>
+		<track name="kolibrin_lento">
+			<key value="1" interpolation="0" row="512"/>
+			<key value="-1" interpolation="0" row="528"/>
+			<key value="1" interpolation="0" row="544"/>
+			<key value="-1" interpolation="0" row="560"/>
+			<key value="1" interpolation="0" row="576"/>
+			<key value="-1" interpolation="0" row="592"/>
+			<key value="1" interpolation="0" row="608"/>
+			<key value="-1" interpolation="0" row="624"/>
+			<key value="1" interpolation="0" row="640"/>
+			<key value="-1" interpolation="0" row="656"/>
+			<key value="1" interpolation="0" row="672"/>
+			<key value="-1" interpolation="0" row="688"/>
+			<key value="1" interpolation="0" row="704"/>
+			<key value="-1" interpolation="0" row="720"/>
+			<key value="1" interpolation="0" row="736"/>
+			<key value="-1" interpolation="0" row="752"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
